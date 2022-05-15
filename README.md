@@ -2,6 +2,8 @@
 
 Clone the repository.
 
+Make sure node and nestjs is installed.
+
 Run *npm install* to install node_modules.
 
 install axios.
